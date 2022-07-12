@@ -55,9 +55,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['923185773352'] //ur owner number
-global.ownername = "TGB" //ur owner name
+global.ownername = "TBG" //ur owner name
 global.ytname = "YT: Exposer69" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.socialm = "Instagram: tbgbot69" //ur github or insta name
 global.location = "Pakistan, Punjab, Attock" //ur location
 
 //bot bomdy 
@@ -68,8 +68,8 @@ global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be dis
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.themeemoji = "🔥" //ur theme emoji
+global.packname = "TBG Sticker\n\n\n\n\n\n\n\n\n\n\n🔥🔥🔥 " //ur sticker watermark packname
 global.author = "TBG" //ur sticker watermark author
 
 //Bot theme media
